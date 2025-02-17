@@ -1,55 +1,53 @@
-# 👋 안녕하세요!
+# 👋 Welcome to My GitHub!
 
-🎓 **딥러닝(DI)** 과 **머신러닝(ML)** 을 공부하고 있는 학부생입니다.  
-🌟 AI 기술을 탐구하고 이를 활용하여 현실 문제를 해결하는 것에 관심이 많습니다.  
-💻 현재 배우고 있고, 프로젝트에 활용 중인 기술들:  
+## 🚀 About Me
+I am passionate about **Machine Learning (ML)** and **Deep Learning (DL)**, always exploring new advancements in AI and working on innovative projects. My focus areas include:
+- 🧠 Neural Networks & Deep Learning
+- 📊 Data Science & Predictive Modeling
+- 🤖 Computer Vision & NLP
+- 🔍 AI Research & Experimentation
 
-### ⚙️ 기술 스택
-<p align="left">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  
-  <!-- IDEs -->
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
-</p>
+I enjoy competing in AI-related challenges and continuously improving my skills through hands-on projects and research.
 
 ---
 
-## 🔭 프로젝트
-제가 진행한 프로젝트는 다음과 같습니다:
+## 🏆 Achievements & Awards
+| Year | Competition | Award |
+|------|------------|--------|
+| YYYY | Competition Name | Award Details |
+| YYYY | Competition Name | Award Details |
+
+*(More updates coming soon!)*
 
 ---
 
-## 🌱 배우고 있는 것
-- a
-- b
-- c
+## 📂 Featured Projects
+Here are some of my key projects:
+
+### 🏅 **Gomoku AI Model**
+- Developed a CNN-based and Minimax algorithm model for playing Gomoku on a 19x19 board.
+- Implemented a heuristic-based move selection to optimize game strategies.
+
+### 🏅 **Cell Count Model**
+- Built an automated cell counting system using OpenCV & ResNet18.
+- Achieved 99% accuracy by combining classical computer vision with deep learning.
+
+### 🏅 **Zero-Shot Learning Challenge**
+- Participated in a **Zero-Shot Classification** challenge using **Hugging Face models**.
+- Implemented ensemble learning with multiple VLM models to improve performance.
+
+### 🏅 **CNN & GAN Implementation**
+- Designed a **CNN for CIFAR-10 classification** achieving high accuracy.
+- Developed a **GAN for realistic face generation** using the CelebA dataset.
+
+*(More projects available in my repositories!)*
 
 ---
 
-## 📫 연락 방법
-- **이메일**: [jinjinjara1022@naver.com](mailto:jinjinjara1022@naver.com)  
+## 📫 Contact Me
+- **E-Mail**: [jinjinjara1022@naver.com](mailto:jinjinjara1022@naver.com)  
 - **GitHub**: [kimjin1022](https://github.com/kimjin1022)  
 
 ---
 
-## ✨ 수상 경력
-- 🥈 
-- 🏆 
-- 📖
-
----
-
-제 레포지토리를 자유롭게 탐색해 보시고, 협업을 원하신다면 언제든 연락 주세요! 😊
+Feel free to explore my repositories and reach out for collaborations or discussions! 🚀
