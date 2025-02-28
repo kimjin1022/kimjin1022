@@ -9,16 +9,6 @@ I am passionate about **Machine Learning (ML)** and **Deep Learning (DL)**, alwa
 
 I enjoy competing in AI-related challenges and continuously improving my skills through hands-on projects and research.
 
----
-
-## 🏆 Achievements & Awards
-| Year | Competition | Award |
-|------|------------|--------|
-| YYYY | Competition Name | Award Details |
-| YYYY | Competition Name | Award Details |
-
-*(More updates coming soon!)*
-
 
 ---
 
